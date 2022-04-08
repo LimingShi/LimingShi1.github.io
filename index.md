@@ -1,5 +1,5 @@
 ## Welcome to Liming Shi's GitHub Pages
-### **[about]**(https://LimingShi.github.io/about)
+### [about](https://LimingShi.github.io/about)
 
 You can use the [editor on GitHub](https://github.com/LimingShi/LimingShi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
